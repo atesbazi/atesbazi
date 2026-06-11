@@ -6,7 +6,7 @@ In this README file, you can find more information about me and explore some of 
 
 About Me \
 Profession: Computer Engineer \
-Experience: 16 years \
+Experience: 19 years \
 Location: Ankara, Türkiye 
 
 <u>Skills</u> 
