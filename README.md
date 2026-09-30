@@ -15,7 +15,6 @@ Location: Ankara, Türkiye
 - Go 
 - Rust 
 - Clojure 
-- Haskell 
 
 
 Email: agah.atesbazi@gmail.com
